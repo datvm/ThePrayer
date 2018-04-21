@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePrayer.Api", "ThePrayer.Api\ThePrayer.Api.csproj", "{53433623-6EBA-412D-9E3C-08DE393AA2F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePrayer.Common", "ThePrayer.Common\ThePrayer.Common.csproj", "{D2E1B236-009A-4CE4-AA8F-58DF72210A44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{53433623-6EBA-412D-9E3C-08DE393AA2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53433623-6EBA-412D-9E3C-08DE393AA2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53433623-6EBA-412D-9E3C-08DE393AA2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E1B236-009A-4CE4-AA8F-58DF72210A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E1B236-009A-4CE4-AA8F-58DF72210A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E1B236-009A-4CE4-AA8F-58DF72210A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E1B236-009A-4CE4-AA8F-58DF72210A44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
